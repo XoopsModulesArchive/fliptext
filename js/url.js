@@ -1,0 +1,1 @@
+document.write("URL of this page: "+document.URL);
